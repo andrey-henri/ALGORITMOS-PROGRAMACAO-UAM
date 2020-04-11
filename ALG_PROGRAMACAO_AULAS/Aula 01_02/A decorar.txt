@@ -1,0 +1,18 @@
+Matemático John Von Neumann
+• Projetou o primeiro computador com programa armazenado na memória;
+Unidades Funcinais de um computador: Unidade Central de Processamento, Memoria Principal e Dispostivos de entrada e saida;
+
+Linguagem de Baixo: Assembly
+
+O que é um algoritmo?
+Um algoritmo é uma sequência bem definida de passos (ou ações) que devem ser levados a cabo (executados) para
+resolver um determinado problema.
+
+Representação:
+– Fluxograma;
+– Pseudocódigo.
+
+• Basicamente três tipos de operadores:
+– Operadores Aritméticos
+– Operadores Relacionais
+– Operadores Lógicos

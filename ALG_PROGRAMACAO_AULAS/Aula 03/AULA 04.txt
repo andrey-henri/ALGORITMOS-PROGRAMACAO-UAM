@@ -1,0 +1,74 @@
+False (Boolean)
+21 (Int)
+"O resultado é" (String)
+3.1415 (Double)
+"True" (String)
+6,78 (float)
+'h' (Char)
+
+char (Caracter) , string (Conjuntos de Caracteres) , int (Numeros inteiros) , float (Numeros decimais pequenos) , 
+double (Numeros maiores que três casas decimais)  boolean (Verdadeiro ou Falso = 0 ou 1)
+
+
+Adição + Ex: 6 + 4
+Subtração - 7 - 9 
+Multi * 12 * 3 
+Div / 44 / 2
+Módulo (Resto da divisão) % 10 % 3  =  1
+
+
+Prioridade:
+
+1 - ();
+2 - / e *
+3 - * e - 
+
+
+Maior que >
+Maior ou igual a >=
+Menor que <
+Menor ou igual <=
+igual ==
+Diferente de !=
+
+Operadores Lógicos
+- E (&&)
+- OU (||)
+- NEGAÇÃO (!)
+
+ORDEM DE PRIORIDADE ! , && E ||
+
+EXERCICIOS 02:
+
+- x || z && w = V 
+- z && x && x = V
+- z || z || w && x = V
+- x && z && w || ! w = v=V
+
+
+- x (True) || z (true) && w (false)  = V 
+- z (true) && x (True) && (True) = V
+- z (True) || z (True) || w (false) && x (True) = V
+- x (True) && z (True) && w (false) || ! w (true) = V
+
+
+CONSOLE NAVEGADOR:
+
+var x = true;
+
+var z = true;
+
+var w = false;
+
+
+x || z && w
+
+true
+
+z && x && x
+
+true
+
+x && z && w || !w
+
+true

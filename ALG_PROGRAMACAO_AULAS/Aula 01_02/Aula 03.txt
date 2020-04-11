@@ -1,0 +1,36 @@
+INFORMAÇÕES DA UALA:
+
+LINGUAGENS DE BAIXO NIVEL:
+
+- BINÁRIO;
+- ASSEMBLY;
+
+APENAS ESSAS DUAS!
+
+LINGUAGENS DE ALTO NIVEL:
+
+- JAVA,
+- C;
+- C++;
+- C#;
+
+
+AULA 03:
+
+- Alto nivel em java: helloworld.java
+- Comando Javac: Compilado pelo Bytecode da maquina virtual java: helloworld.class
+- Java para compilar o class para binario e ser interpretado pela maquina helloworld (não colocar a extensão)
+
+
+Regras de nome para arquivos e classes java:
+
+- minúsculo,
+- sem acentos;
+- meu_primeiro_arquivo;
+
+Instalar JAVA JDK, e caso o comando JAVAC não funcione pesquisar no google como referenciar o path a ele;
+
+
+PROBLEMA 1: A corrida dos 8 carros
+
+

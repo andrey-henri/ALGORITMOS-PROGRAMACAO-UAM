@@ -1,0 +1,14 @@
+Lado.do.Terreno: Falso pois não pode ter pontos;
+
+4Media: Falso pois a variavel começa com um numero;
+
+class: Falso, pois o nome da variavel é uma função do java;
+
+endereço@e-mail&: Falso, pois contém simbolos especiais;
+
+prova 1: Falso, pois no nome da variavel, não pode conter espaços;
+
+mediaAritmeticaConstrucao_Algoritmos: Verdadeiro, segue os padrões;
+
+salario/hora: Falso, porque a barra representa um operador aritmetico;
+
